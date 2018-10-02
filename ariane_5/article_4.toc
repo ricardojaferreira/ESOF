@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}{Introduction}}{3}{section.1}
+\contentsline {section}{\numberline {2}{The Failure}}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}{How it happens}}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}{An overflow in programming and how to prevent it}}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}{The Programming language used}}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}{Lack of Software Engineering guidelines}}{7}{subsection.2.4}
+\contentsline {section}{\numberline {3}{Losses and Impacts}}{8}{section.3}
+\contentsline {section}{\numberline {4}{Conclusion}}{8}{section.4}

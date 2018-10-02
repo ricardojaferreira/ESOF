@@ -1,0 +1,60 @@
+\begin{thebibliography}{10}
+
+\bibitem{hownottocode:2016}
+How not to~code blog.
+\newblock A space error: 370 million for an integer overflow, 2016.
+\newblock URL: \url{https://hownot2code.com/2016/09/02/a-space-error-370-million-for-an-integer-overflow/}.
+
+\bibitem{Report:1996}
+Prof. J.~L. LIONS et~al.
+\newblock {ARIANE 5} flight 501 failure, 1996.
+\newblock URL:
+  \url{http://www-users.math.umn.edu/~arnold/disasters/ariane5rep.html}.
+
+\bibitem{integeroverflow:wikipedia}
+Wikipedia.
+\newblock Integer overflow, 2018.
+\newblock URL: \url{https://en.wikipedia.org/wiki/Integer_overflow}.
+
+\bibitem{ada:wikipedia}
+Wikipedia.
+\newblock Ada (programming language), 2018.
+\newblock URL: \url{https://en.wikipedia.org/wiki/Ada_(programming_language)}.
+
+\bibitem{programingProblem:PeterB}
+Peter~B. Ladkin.
+\newblock The ariane 5 accident: A programming problem?, 1998.
+\newblock URL:
+  \url{http://www.rvs.uni-bielefeld.de/publications/Incidents/DOCS/Research/Rvs/Misc/Additional/Reports/ariane.html#ESA96a}.
+
+\bibitem{softwaretechniques:1970}
+Nato~Science Committee.
+\newblock Software engineering techniques.
+\newblock pages 1--170, 1970.
+
+\bibitem{lessonsofAriane:Jean}
+Jean-Marc Jézéquel and Bertrand Meyer.
+\newblock Design by contract: The lessons of ariane, 1997.
+\newblock URL:
+  \url{https://archive.eiffel.com/doc/manuals/technology/contract/ariane/}.
+
+\bibitem{designByContract:wikipedia}
+Wikipedia.
+\newblock Design by contract, 2018.
+\newblock URL:
+  \url{https://en.wikipedia.org/wiki/Design_by_contract#Relationship_to_software_testing}.
+
+\bibitem{bugandcrash:Gleick}
+James Gleick.
+\newblock A bug and a crash, 1996.
+\newblock URL:
+  \url{https://hownot2code.com/2016/09/02/a-space-error-370-million-for-an-integer-overflow/}.
+
+\bibitem{floatingError:Praksh}
+Abhishek Prakash.
+\newblock A floating point error that caused a damage worth half a billion,
+  2018.
+\newblock URL:
+  \url{https://hownot2code.com/2016/09/02/a-space-error-370-million-for-an-integer-overflow/}.
+
+\end{thebibliography}
